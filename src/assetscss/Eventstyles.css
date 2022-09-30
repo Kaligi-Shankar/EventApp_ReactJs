@@ -1,0 +1,29 @@
+#birthday-image{
+  width: 500px;
+  height: 500px;
+  padding: 184px 140px 198px 300px;
+  }
+  #event-page{
+    display: flex;
+    flex-direction: row;
+    background: #DDDDDD;
+    margin: auto;
+  }
+  #address{
+    padding: 194px 0px 214px 140px;
+    margin: auto;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #address h1{
+    color:#240D57;
+    font-size: 48px;
+  }
+  #address p{
+    color: #4F4F4F;
+    font-size: 18px;
+  }
+  #address h3{
+    color:#240D57;
+    font-size: 18px;
+  }
